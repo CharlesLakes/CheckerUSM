@@ -1,0 +1,3 @@
+# Checker
+
+- Run as root 
